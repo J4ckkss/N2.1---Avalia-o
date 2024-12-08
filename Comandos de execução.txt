@@ -1,0 +1,9 @@
+Executar servidor:
+npx tsc
+node dist/app.js
+
+URL de execução da API no Postman:
+http://localhost:3000/api/livros
+
+Visualizar dados no banco:
+npx prisma studio
